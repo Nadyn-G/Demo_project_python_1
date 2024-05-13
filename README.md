@@ -10,5 +10,5 @@ You need to install the following:
 ## Running the script
 To run the script, execute the following command:
 ```bash
-py VeryBasic.py
+py main.python.py
 ```
